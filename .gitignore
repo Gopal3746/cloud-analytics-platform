@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# dbt
+dbt/**/target/
+dbt/**/dbt_packages/
+dbt/**/logs/
+
+# Airflow
+airflow/logs/
+airflow/plugins/__pycache__/
+
+# Great Expectations
+great_expectations/uncommitted/
+EOF
