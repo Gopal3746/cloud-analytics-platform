@@ -15,4 +15,3 @@ airflow/plugins/__pycache__/
 
 # Great Expectations
 great_expectations/uncommitted/
-EOF
